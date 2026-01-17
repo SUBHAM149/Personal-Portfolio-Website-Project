@@ -53,7 +53,7 @@ Personal-Portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
+├── MyPhoto/
 │   ├── images/
 │   ├── icons/
 │   └── animations/
